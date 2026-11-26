@@ -1,0 +1,6 @@
+chat_id,agent,started_at,first_response_seconds,duration_seconds,messages,rating,tags,resolved,transcript
+C-2001,Sara,2026-11-10 09:02:00,45,420,12,5,billing,yes,"Thanks, that fixed it. Great help."
+C-2002,Omar,2026-11-10 09:15:00,60,300,8,4,shipping,yes,"Order arrived, thank you."
+C-2003,Lina,2026-11-10 09:30:00,30,180,5,5,,yes,"All good."
+C-2004,Bilal,2026-11-10 10:00:00,90,600,10,4,refund,yes,"Exchange processed, happy with the outcome."
+C-2005,Sara,2026-11-10 10:20:00,25,200,6,5,,yes,"Great support."
